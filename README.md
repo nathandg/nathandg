@@ -1,8 +1,10 @@
-### Hello 👋
+### Hello Devs 👋
 ```js
 <Bio 
   name= { "Nathan Diogo G Da Silva" }
   year = {17}
+  city = { "Londrina" }
+  bio = { "Programming languages student" }
 />
 ```
 <div align="center">
