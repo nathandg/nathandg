@@ -7,7 +7,7 @@
 ```
 <div align="center">
     <a href="https://github.com/NathanDG">
-    <img src= "https://github-readme-stats.vercel.app/api?username=NathanDG&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width = 400 />
+    <img src= "https://github-readme-stats.vercel.app/api?username=NathanDG&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width = 600 />
     <br><br>
     <div>
         <a href = "mailto:nathan_diogo1@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
