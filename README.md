@@ -3,7 +3,7 @@
 ```js
 <Bio 
   name= { "Nathan Diogo G Da Silva" }
-  year = {18}
+  age = {18}
 />
 ```
 
