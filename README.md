@@ -24,7 +24,7 @@ class Skills extends Developer {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NathanDG&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Nathan's Github Stats" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NathanDG&theme=dark&hide_border=false" alt="Nathan's Github Streak" width="477" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NathanDG&theme=dark&hide_border=false" alt="Nathan's Github Streak" width="450" />
 </p>
 
 <p align="center">
