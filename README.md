@@ -34,11 +34,18 @@ My work is driven by the idea that software should be **simple to use, consisten
 
 Currently, I work as a **Software Developer at ROCHA & ROCHA Advogados**, building internal systems, automations and technology solutions applied to business workflows.
 
-I am also deepening my knowledge in **software architecture, distributed systems, cloud, DevOps, observability and AI applied to real-world workflows**.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,next,nodejs,nestjs,graphql,prisma,postgres,docker,linux" alt="Main Stack" />
+
+</div>
 
 ---
 
-## What I Do
+<details>
+  <summary><strong>What I Do</strong></summary>
+
+<br />
 
 <table>
   <tr>
@@ -66,9 +73,14 @@ I am also deepening my knowledge in **software architecture, distributed systems
   </tr>
 </table>
 
+</details>
+
 ---
 
-## Tech Stack
+<details>
+  <summary><strong>Tech Stack</strong></summary>
+
+<br />
 
 <div align="center">
 
@@ -105,9 +117,14 @@ I am also deepening my knowledge in **software architecture, distributed systems
 
 </div>
 
+</details>
+
 ---
 
-## Professional Experience
+<details>
+  <summary><strong>Professional Experience</strong></summary>
+
+<br />
 
 <div align="left">
 
@@ -227,9 +244,14 @@ I am also deepening my knowledge in **software architecture, distributed systems
 
 </div>
 
+</details>
+
 ---
 
-## Education
+<details>
+  <summary><strong>Education</strong></summary>
+
+<br />
 
 <table>
   <tr>
@@ -266,9 +288,14 @@ I am also deepening my knowledge in **software architecture, distributed systems
   </tr>
 </table>
 
+</details>
+
 ---
 
-## Courses & Certifications
+<details>
+  <summary><strong>Courses & Certifications</strong></summary>
+
+<br />
 
 <div align="center">
 
@@ -295,9 +322,14 @@ I am also deepening my knowledge in **software architecture, distributed systems
 
 </div>
 
+</details>
+
 ---
 
-## GitHub Analytics
+<details>
+  <summary><strong>GitHub Analytics</strong></summary>
+
+<br />
 
 <div align="center">
 
@@ -316,26 +348,8 @@ I am also deepening my knowledge in **software architecture, distributed systems
 
 </div>
 
----
+</details>
 
-## Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nathandiogo/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:nathan_diogo1@hotmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
-</a>
-
-<br />
-<br />
-
-<strong>Let’s build something meaningful together.</strong>
-
-<br />
 
 <sub>Feel free to connect or reach out.</sub>
 
